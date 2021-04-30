@@ -1,0 +1,9 @@
+Dictionnaire qui contient XDébut XFin ?
+
+gestion par tableau, concat quand même cellule, append sinon :
+liste[-1] += elem
+sinon liste.append
+
+si changement de ligne :
+global.append(liste)
+liste = [elem]

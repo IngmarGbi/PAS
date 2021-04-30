@@ -1,0 +1,2709 @@
+pages {
+  property {
+    detected_languages {
+      language_code: "en"
+      confidence: 0.3700000047683716
+    }
+    detected_languages {
+      language_code: "fr"
+      confidence: 0.20999999344348907
+    }
+    detected_languages {
+      language_code: "no"
+      confidence: 0.10999999940395355
+    }
+    detected_languages {
+      language_code: "ca"
+      confidence: 0.07999999821186066
+    }
+  }
+  width: 3472
+  height: 4640
+  blocks {
+    property {
+      detected_languages {
+        language_code: "en"
+        confidence: 1.0
+      }
+    }
+    bounding_box {
+      vertices {
+        x: 547
+        y: 870
+      }
+      vertices {
+        x: 1479
+        y: 946
+      }
+      vertices {
+        x: 1434
+        y: 1490
+      }
+      vertices {
+        x: 502
+        y: 1413
+      }
+    }
+    paragraphs {
+      property {
+        detected_languages {
+          language_code: "en"
+          confidence: 1.0
+        }
+      }
+      bounding_box {
+        vertices {
+          x: 547
+          y: 870
+        }
+        vertices {
+          x: 1479
+          y: 946
+        }
+        vertices {
+          x: 1434
+          y: 1490
+        }
+        vertices {
+          x: 502
+          y: 1413
+        }
+      }
+      words {
+        property {
+          detected_languages {
+            language_code: "en"
+          }
+        }
+        bounding_box {
+          vertices {
+            x: 547
+            y: 870
+          }
+          vertices {
+            x: 1057
+            y: 912
+          }
+          vertices {
+            x: 1013
+            y: 1454
+          }
+          vertices {
+            x: 502
+            y: 1412
+          }
+        }
+        symbols {
+          property {
+            detected_languages {
+              language_code: "en"
+            }
+          }
+          bounding_box {
+            vertices {
+              x: 547
+              y: 871
+            }
+            vertices {
+              x: 643
+              y: 879
+            }
+            vertices {
+              x: 598
+              y: 1420
+            }
+            vertices {
+              x: 503
+              y: 1412
+            }
+          }
+          text: "T"
+          confidence: 0.9700000286102295
+        }
+        symbols {
+          property {
+            detected_languages {
+              language_code: "en"
+            }
+          }
+          bounding_box {
+            vertices {
+              x: 654
+              y: 879
+            }
+            vertices {
+              x: 752
+              y: 887
+            }
+            vertices {
+              x: 707
+              y: 1428
+            }
+            vertices {
+              x: 610
+              y: 1420
+            }
+          }
+          text: "a"
+          confidence: 0.7900000214576721
+        }
+        symbols {
+          property {
+            detected_languages {
+              language_code: "en"
+            }
+          }
+          bounding_box {
+            vertices {
+              x: 753
+              y: 888
+            }
+            vertices {
+              x: 870
+              y: 898
+            }
+            vertices {
+              x: 825
+              y: 1439
+            }
+            vertices {
+              x: 709
+              y: 1429
+            }
+          }
+          text: "b"
+          confidence: 0.9900000095367432
+        }
+        symbols {
+          property {
+            detected_languages {
+              language_code: "en"
+            }
+          }
+          bounding_box {
+            vertices {
+              x: 924
+              y: 902
+            }
+            vertices {
+              x: 1021
+              y: 910
+            }
+            vertices {
+              x: 976
+              y: 1451
+            }
+            vertices {
+              x: 880
+              y: 1443
+            }
+          }
+          text: "l"
+          confidence: 0.9900000095367432
+        }
+        symbols {
+          property {
+            detected_languages {
+              language_code: "en"
+            }
+            detected_break {
+              type_: SPACE
+            }
+          }
+          bounding_box {
+            vertices {
+              x: 1002
+              y: 908
+            }
+            vertices {
+              x: 1057
+              y: 912
+            }
+            vertices {
+              x: 1012
+              y: 1454
+            }
+            vertices {
+              x: 958
+              y: 1449
+            }
+          }
+          text: "e"
+          confidence: 0.9900000095367432
+        }
+        confidence: 0.9399999976158142
+      }
+      words {
+        property {
+          detected_languages {
+            language_code: "en"
+          }
+        }
+        bounding_box {
+          vertices {
+            x: 1173
+            y: 922
+          }
+          vertices {
+            x: 1479
+            y: 947
+          }
+          vertices {
+            x: 1434
+            y: 1489
+          }
+          vertices {
+            x: 1128
+            y: 1464
+          }
+        }
+        symbols {
+          property {
+            detected_languages {
+              language_code: "en"
+            }
+          }
+          bounding_box {
+            vertices {
+              x: 1173
+              y: 922
+            }
+            vertices {
+              x: 1315
+              y: 934
+            }
+            vertices {
+              x: 1270
+              y: 1475
+            }
+            vertices {
+              x: 1129
+              y: 1463
+            }
+          }
+          text: "1"
+          confidence: 0.6800000071525574
+        }
+        symbols {
+          property {
+            detected_languages {
+              language_code: "en"
+            }
+            detected_break {
+              type_: LINE_BREAK
+            }
+          }
+          bounding_box {
+            vertices {
+              x: 1337
+              y: 936
+            }
+            vertices {
+              x: 1479
+              y: 948
+            }
+            vertices {
+              x: 1434
+              y: 1489
+            }
+            vertices {
+              x: 1293
+              y: 1477
+            }
+          }
+          text: "5"
+          confidence: 0.949999988079071
+        }
+        confidence: 0.8100000023841858
+      }
+      confidence: 0.8999999761581421
+    }
+    block_type: TEXT
+    confidence: 0.8999999761581421
+  }
+  blocks {
+    property {
+      detected_languages {
+        language_code: "en"
+        confidence: 1.0
+      }
+    }
+    bounding_box {
+      vertices {
+        x: 2272
+        y: 1010
+      }
+      vertices {
+        x: 3237
+        y: 1040
+      }
+      vertices {
+        x: 3225
+        y: 1416
+      }
+      vertices {
+        x: 2260
+        y: 1386
+      }
+    }
+    paragraphs {
+      property {
+        detected_languages {
+          language_code: "en"
+          confidence: 1.0
+        }
+      }
+      bounding_box {
+        vertices {
+          x: 2272
+          y: 1010
+        }
+        vertices {
+          x: 3237
+          y: 1040
+        }
+        vertices {
+          x: 3225
+          y: 1416
+        }
+        vertices {
+          x: 2260
+          y: 1386
+        }
+      }
+      words {
+        property {
+          detected_languages {
+            language_code: "en"
+          }
+        }
+        bounding_box {
+          vertices {
+            x: 2272
+            y: 1010
+          }
+          vertices {
+            x: 2955
+            y: 1031
+          }
+          vertices {
+            x: 2943
+            y: 1407
+          }
+          vertices {
+            x: 2260
+            y: 1386
+          }
+        }
+        symbols {
+          property {
+            detected_languages {
+              language_code: "en"
+            }
+          }
+          bounding_box {
+            vertices {
+              x: 2272
+              y: 1010
+            }
+            vertices {
+              x: 2343
+              y: 1012
+            }
+            vertices {
+              x: 2331
+              y: 1387
+            }
+            vertices {
+              x: 2260
+              y: 1385
+            }
+          }
+          text: "C"
+          confidence: 0.9900000095367432
+        }
+        symbols {
+          property {
+            detected_languages {
+              language_code: "en"
+            }
+          }
+          bounding_box {
+            vertices {
+              x: 2352
+              y: 1013
+            }
+            vertices {
+              x: 2415
+              y: 1015
+            }
+            vertices {
+              x: 2403
+              y: 1390
+            }
+            vertices {
+              x: 2340
+              y: 1388
+            }
+          }
+          text: "o"
+          confidence: 0.8899999856948853
+        }
+        symbols {
+          property {
+            detected_languages {
+              language_code: "en"
+            }
+          }
+          bounding_box {
+            vertices {
+              x: 2417
+              y: 1015
+            }
+            vertices {
+              x: 2501
+              y: 1018
+            }
+            vertices {
+              x: 2489
+              y: 1392
+            }
+            vertices {
+              x: 2405
+              y: 1390
+            }
+          }
+          text: "c"
+          confidence: 0.5099999904632568
+        }
+        symbols {
+          property {
+            detected_languages {
+              language_code: "en"
+            }
+          }
+          bounding_box {
+            vertices {
+              x: 2530
+              y: 1019
+            }
+            vertices {
+              x: 2611
+              y: 1022
+            }
+            vertices {
+              x: 2599
+              y: 1396
+            }
+            vertices {
+              x: 2518
+              y: 1394
+            }
+          }
+          text: "h"
+          confidence: 0.8899999856948853
+        }
+        symbols {
+          property {
+            detected_languages {
+              language_code: "en"
+            }
+          }
+          bounding_box {
+            vertices {
+              x: 2618
+              y: 1021
+            }
+            vertices {
+              x: 2710
+              y: 1024
+            }
+            vertices {
+              x: 2698
+              y: 1399
+            }
+            vertices {
+              x: 2606
+              y: 1396
+            }
+          }
+          text: "e"
+          confidence: 0.8399999737739563
+        }
+        symbols {
+          property {
+            detected_languages {
+              language_code: "en"
+            }
+          }
+          bounding_box {
+            vertices {
+              x: 2695
+              y: 1024
+            }
+            vertices {
+              x: 2742
+              y: 1025
+            }
+            vertices {
+              x: 2730
+              y: 1400
+            }
+            vertices {
+              x: 2683
+              y: 1399
+            }
+          }
+          text: "a"
+          confidence: 0.30000001192092896
+        }
+        symbols {
+          property {
+            detected_languages {
+              language_code: "en"
+            }
+          }
+          bounding_box {
+            vertices {
+              x: 2754
+              y: 1025
+            }
+            vertices {
+              x: 2838
+              y: 1028
+            }
+            vertices {
+              x: 2826
+              y: 1402
+            }
+            vertices {
+              x: 2742
+              y: 1400
+            }
+          }
+          text: "t"
+          confidence: 0.8999999761581421
+        }
+        symbols {
+          property {
+            detected_languages {
+              language_code: "en"
+            }
+          }
+          bounding_box {
+            vertices {
+              x: 2858
+              y: 1029
+            }
+            vertices {
+              x: 2955
+              y: 1032
+            }
+            vertices {
+              x: 2943
+              y: 1407
+            }
+            vertices {
+              x: 2846
+              y: 1404
+            }
+          }
+          text: "s"
+          confidence: 0.9100000262260437
+        }
+        confidence: 0.7699999809265137
+      }
+      words {
+        property {
+          detected_languages {
+            language_code: "en"
+          }
+        }
+        bounding_box {
+          vertices {
+            x: 2928
+            y: 1031
+          }
+          vertices {
+            x: 3039
+            y: 1034
+          }
+          vertices {
+            x: 3027
+            y: 1409
+          }
+          vertices {
+            x: 2916
+            y: 1406
+          }
+        }
+        symbols {
+          property {
+            detected_languages {
+              language_code: "en"
+            }
+            detected_break {
+              type_: SPACE
+            }
+          }
+          bounding_box {
+            vertices {
+              x: 2928
+              y: 1031
+            }
+            vertices {
+              x: 3039
+              y: 1034
+            }
+            vertices {
+              x: 3027
+              y: 1409
+            }
+            vertices {
+              x: 2916
+              y: 1406
+            }
+          }
+          text: ":"
+          confidence: 0.8700000047683716
+        }
+        confidence: 0.8700000047683716
+      }
+      words {
+        property {
+          detected_languages {
+            language_code: "en"
+          }
+        }
+        bounding_box {
+          vertices {
+            x: 3178
+            y: 1039
+          }
+          vertices {
+            x: 3237
+            y: 1041
+          }
+          vertices {
+            x: 3225
+            y: 1416
+          }
+          vertices {
+            x: 3166
+            y: 1414
+          }
+        }
+        symbols {
+          property {
+            detected_languages {
+              language_code: "en"
+            }
+            detected_break {
+              type_: LINE_BREAK
+            }
+          }
+          bounding_box {
+            vertices {
+              x: 3178
+              y: 1039
+            }
+            vertices {
+              x: 3237
+              y: 1041
+            }
+            vertices {
+              x: 3225
+              y: 1416
+            }
+            vertices {
+              x: 3166
+              y: 1414
+            }
+          }
+          text: "4"
+          confidence: 0.949999988079071
+        }
+        confidence: 0.949999988079071
+      }
+      confidence: 0.800000011920929
+    }
+    block_type: TEXT
+    confidence: 0.800000011920929
+  }
+  blocks {
+    property {
+      detected_languages {
+        language_code: "en"
+        confidence: 0.38999998569488525
+      }
+      detected_languages {
+        language_code: "no"
+        confidence: 0.3499999940395355
+      }
+      detected_languages {
+        language_code: "ca"
+        confidence: 0.25999999046325684
+      }
+    }
+    bounding_box {
+      vertices {
+        x: 367
+        y: 1664
+      }
+      vertices {
+        x: 1609
+        y: 1651
+      }
+      vertices {
+        x: 1625
+        y: 3107
+      }
+      vertices {
+        x: 383
+        y: 3121
+      }
+    }
+    paragraphs {
+      property {
+        detected_languages {
+          language_code: "no"
+          confidence: 1.0
+        }
+      }
+      bounding_box {
+        vertices {
+          x: 368
+          y: 1711
+        }
+        vertices {
+          x: 1546
+          y: 1651
+        }
+        vertices {
+          x: 1563
+          y: 1987
+        }
+        vertices {
+          x: 385
+          y: 2047
+        }
+      }
+      words {
+        property {
+          detected_languages {
+            language_code: "no"
+          }
+        }
+        bounding_box {
+          vertices {
+            x: 368
+            y: 1712
+          }
+          vertices {
+            x: 465
+            y: 1707
+          }
+          vertices {
+            x: 482
+            y: 2042
+          }
+          vertices {
+            x: 385
+            y: 2047
+          }
+        }
+        symbols {
+          property {
+            detected_languages {
+              language_code: "no"
+            }
+            detected_break {
+              type_: SPACE
+            }
+          }
+          bounding_box {
+            vertices {
+              x: 368
+              y: 1712
+            }
+            vertices {
+              x: 465
+              y: 1707
+            }
+            vertices {
+              x: 482
+              y: 2042
+            }
+            vertices {
+              x: 385
+              y: 2047
+            }
+          }
+          text: "2"
+          confidence: 0.49000000953674316
+        }
+        confidence: 0.49000000953674316
+      }
+      words {
+        property {
+          detected_languages {
+            language_code: "no"
+          }
+        }
+        bounding_box {
+          vertices {
+            x: 918
+            y: 1683
+          }
+          vertices {
+            x: 1546
+            y: 1651
+          }
+          vertices {
+            x: 1563
+            y: 1987
+          }
+          vertices {
+            x: 935
+            y: 2019
+          }
+        }
+        symbols {
+          property {
+            detected_languages {
+              language_code: "no"
+            }
+          }
+          bounding_box {
+            vertices {
+              x: 918
+              y: 1684
+            }
+            vertices {
+              x: 1000
+              y: 1680
+            }
+            vertices {
+              x: 1017
+              y: 2014
+            }
+            vertices {
+              x: 935
+              y: 2019
+            }
+          }
+          text: "a"
+          confidence: 0.9200000166893005
+        }
+        symbols {
+          property {
+            detected_languages {
+              language_code: "no"
+            }
+          }
+          bounding_box {
+            vertices {
+              x: 1006
+              y: 1679
+            }
+            vertices {
+              x: 1101
+              y: 1674
+            }
+            vertices {
+              x: 1118
+              y: 2009
+            }
+            vertices {
+              x: 1023
+              y: 2014
+            }
+          }
+          text: "n"
+          confidence: 0.4399999976158142
+        }
+        symbols {
+          property {
+            detected_languages {
+              language_code: "no"
+            }
+          }
+          bounding_box {
+            vertices {
+              x: 1131
+              y: 1673
+            }
+            vertices {
+              x: 1232
+              y: 1668
+            }
+            vertices {
+              x: 1249
+              y: 2002
+            }
+            vertices {
+              x: 1148
+              y: 2008
+            }
+          }
+          text: "s"
+          confidence: 0.3199999928474426
+        }
+        symbols {
+          property {
+            detected_languages {
+              language_code: "no"
+            }
+          }
+          bounding_box {
+            vertices {
+              x: 1257
+              y: 1667
+            }
+            vertices {
+              x: 1333
+              y: 1663
+            }
+            vertices {
+              x: 1350
+              y: 1998
+            }
+            vertices {
+              x: 1274
+              y: 2002
+            }
+          }
+          text: "e"
+          confidence: 0.8100000023841858
+        }
+        symbols {
+          property {
+            detected_languages {
+              language_code: "no"
+            }
+          }
+          bounding_box {
+            vertices {
+              x: 1323
+              y: 1663
+            }
+            vertices {
+              x: 1392
+              y: 1660
+            }
+            vertices {
+              x: 1409
+              y: 1994
+            }
+            vertices {
+              x: 1340
+              y: 1998
+            }
+          }
+          text: "t"
+          confidence: 0.9300000071525574
+        }
+        symbols {
+          property {
+            detected_languages {
+              language_code: "no"
+            }
+          }
+          bounding_box {
+            vertices {
+              x: 1419
+              y: 1658
+            }
+            vertices {
+              x: 1488
+              y: 1655
+            }
+            vertices {
+              x: 1505
+              y: 1989
+            }
+            vertices {
+              x: 1436
+              y: 1993
+            }
+          }
+          text: "t"
+          confidence: 0.9599999785423279
+        }
+        symbols {
+          property {
+            detected_languages {
+              language_code: "no"
+            }
+            detected_break {
+              type_: LINE_BREAK
+            }
+          }
+          bounding_box {
+            vertices {
+              x: 1489
+              y: 1655
+            }
+            vertices {
+              x: 1546
+              y: 1652
+            }
+            vertices {
+              x: 1563
+              y: 1987
+            }
+            vertices {
+              x: 1506
+              y: 1990
+            }
+          }
+          text: "e"
+          confidence: 0.949999988079071
+        }
+        confidence: 0.7599999904632568
+      }
+      confidence: 0.7200000286102295
+    }
+    paragraphs {
+      property {
+        detected_languages {
+          language_code: "en"
+          confidence: 1.0
+        }
+      }
+      bounding_box {
+        vertices {
+          x: 464
+          y: 2153
+        }
+        vertices {
+          x: 1474
+          y: 2150
+        }
+        vertices {
+          x: 1477
+          y: 3080
+        }
+        vertices {
+          x: 467
+          y: 3083
+        }
+      }
+      words {
+        property {
+          detected_languages {
+            language_code: "en"
+          }
+        }
+        bounding_box {
+          vertices {
+            x: 539
+            y: 2153
+          }
+          vertices {
+            x: 659
+            y: 2154
+          }
+          vertices {
+            x: 654
+            y: 2561
+          }
+          vertices {
+            x: 534
+            y: 2560
+          }
+        }
+        symbols {
+          property {
+            detected_languages {
+              language_code: "en"
+            }
+            detected_break {
+              type_: SPACE
+            }
+          }
+          bounding_box {
+            vertices {
+              x: 539
+              y: 2153
+            }
+            vertices {
+              x: 659
+              y: 2154
+            }
+            vertices {
+              x: 654
+              y: 2561
+            }
+            vertices {
+              x: 534
+              y: 2560
+            }
+          }
+          text: "4"
+          confidence: 0.9800000190734863
+        }
+        confidence: 0.9800000190734863
+      }
+      words {
+        property {
+          detected_languages {
+            language_code: "en"
+          }
+        }
+        bounding_box {
+          vertices {
+            x: 912
+            y: 2157
+          }
+          vertices {
+            x: 1474
+            y: 2163
+          }
+          vertices {
+            x: 1469
+            y: 2571
+          }
+          vertices {
+            x: 907
+            y: 2565
+          }
+        }
+        symbols {
+          property {
+            detected_languages {
+              language_code: "en"
+            }
+          }
+          bounding_box {
+            vertices {
+              x: 912
+              y: 2158
+            }
+            vertices {
+              x: 1023
+              y: 2159
+            }
+            vertices {
+              x: 1018
+              y: 2566
+            }
+            vertices {
+              x: 907
+              y: 2565
+            }
+          }
+          text: "e"
+          confidence: 0.949999988079071
+        }
+        symbols {
+          property {
+            detected_languages {
+              language_code: "en"
+            }
+          }
+          bounding_box {
+            vertices {
+              x: 1048
+              y: 2159
+            }
+            vertices {
+              x: 1135
+              y: 2160
+            }
+            vertices {
+              x: 1130
+              y: 2567
+            }
+            vertices {
+              x: 1043
+              y: 2566
+            }
+          }
+          text: "s"
+          confidence: 0.9700000286102295
+        }
+        symbols {
+          property {
+            detected_languages {
+              language_code: "en"
+            }
+          }
+          bounding_box {
+            vertices {
+              x: 1136
+              y: 2160
+            }
+            vertices {
+              x: 1207
+              y: 2161
+            }
+            vertices {
+              x: 1202
+              y: 2568
+            }
+            vertices {
+              x: 1131
+              y: 2567
+            }
+          }
+          text: "t"
+          confidence: 1.0
+        }
+        symbols {
+          property {
+            detected_languages {
+              language_code: "en"
+            }
+          }
+          bounding_box {
+            vertices {
+              x: 1224
+              y: 2161
+            }
+            vertices {
+              x: 1279
+              y: 2162
+            }
+            vertices {
+              x: 1274
+              y: 2569
+            }
+            vertices {
+              x: 1219
+              y: 2568
+            }
+          }
+          text: "r"
+          confidence: 0.9700000286102295
+        }
+        symbols {
+          property {
+            detected_languages {
+              language_code: "en"
+            }
+          }
+          bounding_box {
+            vertices {
+              x: 1254
+              y: 2162
+            }
+            vertices {
+              x: 1328
+              y: 2163
+            }
+            vertices {
+              x: 1323
+              y: 2570
+            }
+            vertices {
+              x: 1249
+              y: 2569
+            }
+          }
+          text: "\303\251"
+          confidence: 0.46000000834465027
+        }
+        symbols {
+          property {
+            detected_languages {
+              language_code: "en"
+            }
+            detected_break {
+              type_: EOL_SURE_SPACE
+            }
+          }
+          bounding_box {
+            vertices {
+              x: 1365
+              y: 2163
+            }
+            vertices {
+              x: 1474
+              y: 2164
+            }
+            vertices {
+              x: 1469
+              y: 2571
+            }
+            vertices {
+              x: 1360
+              y: 2570
+            }
+          }
+          text: "e"
+          confidence: 0.8999999761581421
+        }
+        confidence: 0.8700000047683716
+      }
+      words {
+        property {
+          detected_languages {
+            language_code: "en"
+          }
+        }
+        bounding_box {
+          vertices {
+            x: 466
+            y: 2795
+          }
+          vertices {
+            x: 732
+            y: 2787
+          }
+          vertices {
+            x: 741
+            y: 3075
+          }
+          vertices {
+            x: 475
+            y: 3083
+          }
+        }
+        symbols {
+          property {
+            detected_languages {
+              language_code: "en"
+            }
+          }
+          bounding_box {
+            vertices {
+              x: 466
+              y: 2795
+            }
+            vertices {
+              x: 587
+              y: 2791
+            }
+            vertices {
+              x: 596
+              y: 3078
+            }
+            vertices {
+              x: 475
+              y: 3082
+            }
+          }
+          text: "4"
+          confidence: 0.9900000095367432
+        }
+        symbols {
+          property {
+            detected_languages {
+              language_code: "en"
+            }
+            detected_break {
+              type_: LINE_BREAK
+            }
+          }
+          bounding_box {
+            vertices {
+              x: 611
+              y: 2791
+            }
+            vertices {
+              x: 732
+              y: 2787
+            }
+            vertices {
+              x: 741
+              y: 3074
+            }
+            vertices {
+              x: 620
+              y: 3078
+            }
+          }
+          text: "7"
+          confidence: 0.8600000143051147
+        }
+        confidence: 0.9200000166893005
+      }
+      confidence: 0.8899999856948853
+    }
+    paragraphs {
+      property {
+        detected_languages {
+          language_code: "ca"
+          confidence: 1.0
+        }
+      }
+      bounding_box {
+        vertices {
+          x: 1190
+          y: 2785
+        }
+        vertices {
+          x: 1621
+          y: 2794
+        }
+        vertices {
+          x: 1614
+          y: 3108
+        }
+        vertices {
+          x: 1184
+          y: 3099
+        }
+      }
+      words {
+        property {
+          detected_languages {
+            language_code: "ca"
+          }
+        }
+        bounding_box {
+          vertices {
+            x: 1190
+            y: 2785
+          }
+          vertices {
+            x: 1621
+            y: 2794
+          }
+          vertices {
+            x: 1614
+            y: 3108
+          }
+          vertices {
+            x: 1184
+            y: 3099
+          }
+        }
+        symbols {
+          property {
+            detected_languages {
+              language_code: "ca"
+            }
+          }
+          bounding_box {
+            vertices {
+              x: 1190
+              y: 2785
+            }
+            vertices {
+              x: 1245
+              y: 2786
+            }
+            vertices {
+              x: 1239
+              y: 3099
+            }
+            vertices {
+              x: 1184
+              y: 3098
+            }
+          }
+          text: "R"
+          confidence: 0.9900000095367432
+        }
+        symbols {
+          property {
+            detected_languages {
+              language_code: "ca"
+            }
+          }
+          bounding_box {
+            vertices {
+              x: 1252
+              y: 2786
+            }
+            vertices {
+              x: 1308
+              y: 2787
+            }
+            vertices {
+              x: 1302
+              y: 3100
+            }
+            vertices {
+              x: 1246
+              y: 3099
+            }
+          }
+          text: "i"
+          confidence: 0.9200000166893005
+        }
+        symbols {
+          property {
+            detected_languages {
+              language_code: "ca"
+            }
+          }
+          bounding_box {
+            vertices {
+              x: 1309
+              y: 2788
+            }
+            vertices {
+              x: 1378
+              y: 2789
+            }
+            vertices {
+              x: 1372
+              y: 3102
+            }
+            vertices {
+              x: 1303
+              y: 3101
+            }
+          }
+          text: "c"
+          confidence: 0.9700000286102295
+        }
+        symbols {
+          property {
+            detected_languages {
+              language_code: "ca"
+            }
+          }
+          bounding_box {
+            vertices {
+              x: 1403
+              y: 2790
+            }
+            vertices {
+              x: 1471
+              y: 2791
+            }
+            vertices {
+              x: 1465
+              y: 3104
+            }
+            vertices {
+              x: 1397
+              y: 3103
+            }
+          }
+          text: "a"
+          confidence: 0.9700000286102295
+        }
+        symbols {
+          property {
+            detected_languages {
+              language_code: "ca"
+            }
+          }
+          bounding_box {
+            vertices {
+              x: 1465
+              y: 2791
+            }
+            vertices {
+              x: 1534
+              y: 2792
+            }
+            vertices {
+              x: 1528
+              y: 3105
+            }
+            vertices {
+              x: 1459
+              y: 3104
+            }
+          }
+          text: "r"
+          confidence: 0.9900000095367432
+        }
+        symbols {
+          property {
+            detected_languages {
+              language_code: "ca"
+            }
+            detected_break {
+              type_: LINE_BREAK
+            }
+          }
+          bounding_box {
+            vertices {
+              x: 1554
+              y: 2793
+            }
+            vertices {
+              x: 1621
+              y: 2794
+            }
+            vertices {
+              x: 1615
+              y: 3107
+            }
+            vertices {
+              x: 1548
+              y: 3106
+            }
+          }
+          text: "d"
+          confidence: 0.9200000166893005
+        }
+        confidence: 0.9599999785423279
+      }
+      confidence: 0.9599999785423279
+    }
+    block_type: TEXT
+    confidence: 0.8500000238418579
+  }
+  blocks {
+    bounding_box {
+      vertices {
+        x: 2531
+        y: 1705
+      }
+      vertices {
+        x: 3237
+        y: 1709
+      }
+      vertices {
+        x: 3233
+        y: 2483
+      }
+      vertices {
+        x: 2527
+        y: 2479
+      }
+    }
+    paragraphs {
+      bounding_box {
+        vertices {
+          x: 2531
+          y: 1705
+        }
+        vertices {
+          x: 3237
+          y: 1709
+        }
+        vertices {
+          x: 3233
+          y: 2483
+        }
+        vertices {
+          x: 2527
+          y: 2479
+        }
+      }
+      words {
+        bounding_box {
+          vertices {
+            x: 2609
+            y: 1705
+          }
+          vertices {
+            x: 3229
+            y: 1721
+          }
+          vertices {
+            x: 3221
+            y: 2039
+          }
+          vertices {
+            x: 2601
+            y: 2024
+          }
+        }
+        symbols {
+          bounding_box {
+            vertices {
+              x: 2609
+              y: 1705
+            }
+            vertices {
+              x: 2717
+              y: 1708
+            }
+            vertices {
+              x: 2709
+              y: 2027
+            }
+            vertices {
+              x: 2601
+              y: 2024
+            }
+          }
+          text: "2"
+          confidence: 0.75
+        }
+        symbols {
+          bounding_box {
+            vertices {
+              x: 2731
+              y: 1708
+            }
+            vertices {
+              x: 2852
+              y: 1711
+            }
+            vertices {
+              x: 2844
+              y: 2030
+            }
+            vertices {
+              x: 2723
+              y: 2027
+            }
+          }
+          text: "8"
+          confidence: 0.9800000190734863
+        }
+        symbols {
+          bounding_box {
+            vertices {
+              x: 2898
+              y: 1712
+            }
+            vertices {
+              x: 3006
+              y: 1715
+            }
+            vertices {
+              x: 2998
+              y: 2034
+            }
+            vertices {
+              x: 2890
+              y: 2031
+            }
+          }
+          text: ","
+          confidence: 0.8799999952316284
+        }
+        symbols {
+          bounding_box {
+            vertices {
+              x: 2999
+              y: 1715
+            }
+            vertices {
+              x: 3094
+              y: 1717
+            }
+            vertices {
+              x: 3086
+              y: 2036
+            }
+            vertices {
+              x: 2991
+              y: 2034
+            }
+          }
+          text: "0"
+          confidence: 0.9300000071525574
+        }
+        symbols {
+          property {
+            detected_break {
+              type_: EOL_SURE_SPACE
+            }
+          }
+          bounding_box {
+            vertices {
+              x: 3121
+              y: 1718
+            }
+            vertices {
+              x: 3229
+              y: 1721
+            }
+            vertices {
+              x: 3221
+              y: 2040
+            }
+            vertices {
+              x: 3113
+              y: 2037
+            }
+          }
+          text: "0"
+          confidence: 0.9800000190734863
+        }
+        confidence: 0.8999999761581421
+      }
+      words {
+        bounding_box {
+          vertices {
+            x: 2528
+            y: 2191
+          }
+          vertices {
+            x: 3229
+            y: 2181
+          }
+          vertices {
+            x: 3233
+            y: 2469
+          }
+          vertices {
+            x: 2532
+            y: 2479
+          }
+        }
+        symbols {
+          bounding_box {
+            vertices {
+              x: 2528
+              y: 2192
+            }
+            vertices {
+              x: 2635
+              y: 2191
+            }
+            vertices {
+              x: 2639
+              y: 2478
+            }
+            vertices {
+              x: 2532
+              y: 2479
+            }
+          }
+          text: "3"
+          confidence: 0.9900000095367432
+        }
+        symbols {
+          bounding_box {
+            vertices {
+              x: 2700
+              y: 2189
+            }
+            vertices {
+              x: 2833
+              y: 2187
+            }
+            vertices {
+              x: 2837
+              y: 2474
+            }
+            vertices {
+              x: 2704
+              y: 2476
+            }
+          }
+          text: "0"
+          confidence: 1.0
+        }
+        symbols {
+          bounding_box {
+            vertices {
+              x: 2831
+              y: 2187
+            }
+            vertices {
+              x: 2894
+              y: 2186
+            }
+            vertices {
+              x: 2898
+              y: 2473
+            }
+            vertices {
+              x: 2835
+              y: 2474
+            }
+          }
+          text: ","
+          confidence: 0.9800000190734863
+        }
+        symbols {
+          bounding_box {
+            vertices {
+              x: 2850
+              y: 2187
+            }
+            vertices {
+              x: 2971
+              y: 2185
+            }
+            vertices {
+              x: 2975
+              y: 2472
+            }
+            vertices {
+              x: 2854
+              y: 2474
+            }
+          }
+          text: "2"
+          confidence: 0.8999999761581421
+        }
+        symbols {
+          property {
+            detected_break {
+              type_: LINE_BREAK
+            }
+          }
+          bounding_box {
+            vertices {
+              x: 3052
+              y: 2184
+            }
+            vertices {
+              x: 3229
+              y: 2182
+            }
+            vertices {
+              x: 3233
+              y: 2469
+            }
+            vertices {
+              x: 3056
+              y: 2471
+            }
+          }
+          text: "0"
+          confidence: 0.9800000190734863
+        }
+        confidence: 0.9700000286102295
+      }
+      confidence: 0.9300000071525574
+    }
+    block_type: TEXT
+    confidence: 0.9300000071525574
+  }
+  blocks {
+    bounding_box {
+      vertices {
+        x: 2355
+        y: 2796
+      }
+      vertices {
+        x: 3217
+        y: 2771
+      }
+      vertices {
+        x: 3226
+        y: 3083
+      }
+      vertices {
+        x: 2364
+        y: 3108
+      }
+    }
+    paragraphs {
+      bounding_box {
+        vertices {
+          x: 2355
+          y: 2796
+        }
+        vertices {
+          x: 3217
+          y: 2771
+        }
+        vertices {
+          x: 3226
+          y: 3083
+        }
+        vertices {
+          x: 2364
+          y: 3108
+        }
+      }
+      words {
+        bounding_box {
+          vertices {
+            x: 2355
+            y: 2796
+          }
+          vertices {
+            x: 3217
+            y: 2771
+          }
+          vertices {
+            x: 3226
+            y: 3083
+          }
+          vertices {
+            x: 2364
+            y: 3108
+          }
+        }
+        symbols {
+          bounding_box {
+            vertices {
+              x: 2355
+              y: 2796
+            }
+            vertices {
+              x: 2485
+              y: 2792
+            }
+            vertices {
+              x: 2494
+              y: 3103
+            }
+            vertices {
+              x: 2364
+              y: 3107
+            }
+          }
+          text: "1"
+          confidence: 0.9900000095367432
+        }
+        symbols {
+          bounding_box {
+            vertices {
+              x: 2517
+              y: 2792
+            }
+            vertices {
+              x: 2634
+              y: 2789
+            }
+            vertices {
+              x: 2643
+              y: 3099
+            }
+            vertices {
+              x: 2526
+              y: 3103
+            }
+          }
+          text: "1"
+          confidence: 0.9300000071525574
+        }
+        symbols {
+          bounding_box {
+            vertices {
+              x: 2647
+              y: 2788
+            }
+            vertices {
+              x: 2752
+              y: 2785
+            }
+            vertices {
+              x: 2761
+              y: 3096
+            }
+            vertices {
+              x: 2656
+              y: 3099
+            }
+          }
+          text: "2"
+          confidence: 0.949999988079071
+        }
+        symbols {
+          bounding_box {
+            vertices {
+              x: 2770
+              y: 2784
+            }
+            vertices {
+              x: 2876
+              y: 2781
+            }
+            vertices {
+              x: 2885
+              y: 3092
+            }
+            vertices {
+              x: 2779
+              y: 3095
+            }
+          }
+          text: ","
+          confidence: 0.949999988079071
+        }
+        symbols {
+          bounding_box {
+            vertices {
+              x: 2878
+              y: 2781
+            }
+            vertices {
+              x: 3019
+              y: 2777
+            }
+            vertices {
+              x: 3028
+              y: 3088
+            }
+            vertices {
+              x: 2887
+              y: 3092
+            }
+          }
+          text: "5"
+          confidence: 0.8899999856948853
+        }
+        symbols {
+          property {
+            detected_break {
+              type_: LINE_BREAK
+            }
+          }
+          bounding_box {
+            vertices {
+              x: 3076
+              y: 2775
+            }
+            vertices {
+              x: 3217
+              y: 2771
+            }
+            vertices {
+              x: 3226
+              y: 3082
+            }
+            vertices {
+              x: 3085
+              y: 3086
+            }
+          }
+          text: "1"
+          confidence: 0.9100000262260437
+        }
+        confidence: 0.9300000071525574
+      }
+      confidence: 0.9300000071525574
+    }
+    block_type: TEXT
+    confidence: 0.9300000071525574
+  }
+  blocks {
+    property {
+      detected_languages {
+        language_code: "fr"
+        confidence: 1.0
+      }
+    }
+    bounding_box {
+      vertices {
+        x: 1440
+        y: 3432
+      }
+      vertices {
+        x: 3413
+        y: 3470
+      }
+      vertices {
+        x: 3404
+        y: 3902
+      }
+      vertices {
+        x: 1432
+        y: 3864
+      }
+    }
+    paragraphs {
+      property {
+        detected_languages {
+          language_code: "fr"
+          confidence: 1.0
+        }
+      }
+      bounding_box {
+        vertices {
+          x: 1440
+          y: 3432
+        }
+        vertices {
+          x: 3413
+          y: 3470
+        }
+        vertices {
+          x: 3404
+          y: 3902
+        }
+        vertices {
+          x: 1432
+          y: 3864
+        }
+      }
+      words {
+        property {
+          detected_languages {
+            language_code: "fr"
+          }
+        }
+        bounding_box {
+          vertices {
+            x: 1440
+            y: 3432
+          }
+          vertices {
+            x: 1842
+            y: 3440
+          }
+          vertices {
+            x: 1834
+            y: 3871
+          }
+          vertices {
+            x: 1432
+            y: 3863
+          }
+        }
+        symbols {
+          property {
+            detected_languages {
+              language_code: "fr"
+            }
+          }
+          bounding_box {
+            vertices {
+              x: 1440
+              y: 3432
+            }
+            vertices {
+              x: 1519
+              y: 3434
+            }
+            vertices {
+              x: 1511
+              y: 3864
+            }
+            vertices {
+              x: 1432
+              y: 3863
+            }
+          }
+          text: "S"
+          confidence: 0.9900000095367432
+        }
+        symbols {
+          property {
+            detected_languages {
+              language_code: "fr"
+            }
+          }
+          bounding_box {
+            vertices {
+              x: 1535
+              y: 3434
+            }
+            vertices {
+              x: 1638
+              y: 3436
+            }
+            vertices {
+              x: 1630
+              y: 3867
+            }
+            vertices {
+              x: 1527
+              y: 3865
+            }
+          }
+          text: "o"
+          confidence: 0.8700000047683716
+        }
+        symbols {
+          property {
+            detected_languages {
+              language_code: "fr"
+            }
+          }
+          bounding_box {
+            vertices {
+              x: 1615
+              y: 3435
+            }
+            vertices {
+              x: 1688
+              y: 3436
+            }
+            vertices {
+              x: 1680
+              y: 3867
+            }
+            vertices {
+              x: 1607
+              y: 3866
+            }
+          }
+          text: "u"
+          confidence: 0.6700000166893005
+        }
+        symbols {
+          property {
+            detected_languages {
+              language_code: "fr"
+            }
+            detected_break {
+              type_: SPACE
+            }
+          }
+          bounding_box {
+            vertices {
+              x: 1725
+              y: 3437
+            }
+            vertices {
+              x: 1842
+              y: 3439
+            }
+            vertices {
+              x: 1834
+              y: 3870
+            }
+            vertices {
+              x: 1717
+              y: 3868
+            }
+          }
+          text: "s"
+          confidence: 0.6700000166893005
+        }
+        confidence: 0.800000011920929
+      }
+      words {
+        property {
+          detected_languages {
+            language_code: "fr"
+          }
+        }
+        bounding_box {
+          vertices {
+            x: 1872
+            y: 3440
+          }
+          vertices {
+            x: 2354
+            y: 3449
+          }
+          vertices {
+            x: 2346
+            y: 3881
+          }
+          vertices {
+            x: 1864
+            y: 3872
+          }
+        }
+        symbols {
+          property {
+            detected_languages {
+              language_code: "fr"
+            }
+          }
+          bounding_box {
+            vertices {
+              x: 1872
+              y: 3440
+            }
+            vertices {
+              x: 1951
+              y: 3442
+            }
+            vertices {
+              x: 1943
+              y: 3872
+            }
+            vertices {
+              x: 1864
+              y: 3871
+            }
+          }
+          text: "T"
+          confidence: 0.9399999976158142
+        }
+        symbols {
+          property {
+            detected_languages {
+              language_code: "fr"
+            }
+          }
+          bounding_box {
+            vertices {
+              x: 1960
+              y: 3442
+            }
+            vertices {
+              x: 2039
+              y: 3444
+            }
+            vertices {
+              x: 2031
+              y: 3874
+            }
+            vertices {
+              x: 1952
+              y: 3873
+            }
+          }
+          text: "o"
+          confidence: 0.9200000166893005
+        }
+        symbols {
+          property {
+            detected_languages {
+              language_code: "fr"
+            }
+          }
+          bounding_box {
+            vertices {
+              x: 2046
+              y: 3444
+            }
+            vertices {
+              x: 2120
+              y: 3445
+            }
+            vertices {
+              x: 2112
+              y: 3876
+            }
+            vertices {
+              x: 2038
+              y: 3875
+            }
+          }
+          text: "t"
+          confidence: 0.9100000262260437
+        }
+        symbols {
+          property {
+            detected_languages {
+              language_code: "fr"
+            }
+          }
+          bounding_box {
+            vertices {
+              x: 2124
+              y: 3445
+            }
+            vertices {
+              x: 2217
+              y: 3447
+            }
+            vertices {
+              x: 2209
+              y: 3878
+            }
+            vertices {
+              x: 2116
+              y: 3876
+            }
+          }
+          text: "a"
+          confidence: 0.9599999785423279
+        }
+        symbols {
+          property {
+            detected_languages {
+              language_code: "fr"
+            }
+            detected_break {
+              type_: SPACE
+            }
+          }
+          bounding_box {
+            vertices {
+              x: 2245
+              y: 3447
+            }
+            vertices {
+              x: 2354
+              y: 3449
+            }
+            vertices {
+              x: 2346
+              y: 3880
+            }
+            vertices {
+              x: 2237
+              y: 3878
+            }
+          }
+          text: "l"
+          confidence: 0.9599999785423279
+        }
+        confidence: 0.9300000071525574
+      }
+      words {
+        property {
+          detected_languages {
+            language_code: "fr"
+          }
+        }
+        bounding_box {
+          vertices {
+            x: 2636
+            y: 3455
+          }
+          vertices {
+            x: 3413
+            y: 3470
+          }
+          vertices {
+            x: 3405
+            y: 3901
+          }
+          vertices {
+            x: 2628
+            y: 3886
+          }
+        }
+        symbols {
+          property {
+            detected_languages {
+              language_code: "fr"
+            }
+          }
+          bounding_box {
+            vertices {
+              x: 2636
+              y: 3455
+            }
+            vertices {
+              x: 2745
+              y: 3457
+            }
+            vertices {
+              x: 2737
+              y: 3888
+            }
+            vertices {
+              x: 2628
+              y: 3886
+            }
+          }
+          text: "1"
+          confidence: 0.44999998807907104
+        }
+        symbols {
+          property {
+            detected_languages {
+              language_code: "fr"
+            }
+          }
+          bounding_box {
+            vertices {
+              x: 2757
+              y: 3457
+            }
+            vertices {
+              x: 2882
+              y: 3459
+            }
+            vertices {
+              x: 2874
+              y: 3890
+            }
+            vertices {
+              x: 2749
+              y: 3888
+            }
+          }
+          text: "4"
+          confidence: 0.9599999785423279
+        }
+        symbols {
+          property {
+            detected_languages {
+              language_code: "fr"
+            }
+          }
+          bounding_box {
+            vertices {
+              x: 2917
+              y: 3460
+            }
+            vertices {
+              x: 3066
+              y: 3463
+            }
+            vertices {
+              x: 3058
+              y: 3894
+            }
+            vertices {
+              x: 2909
+              y: 3891
+            }
+          }
+          text: "8"
+          confidence: 0.9800000190734863
+        }
+        symbols {
+          property {
+            detected_languages {
+              language_code: "fr"
+            }
+          }
+          bounding_box {
+            vertices {
+              x: 3108
+              y: 3464
+            }
+            vertices {
+              x: 3217
+              y: 3466
+            }
+            vertices {
+              x: 3209
+              y: 3897
+            }
+            vertices {
+              x: 3100
+              y: 3895
+            }
+          }
+          text: "."
+          confidence: 0.4699999988079071
+        }
+        symbols {
+          property {
+            detected_languages {
+              language_code: "fr"
+            }
+          }
+          bounding_box {
+            vertices {
+              x: 3204
+              y: 3466
+            }
+            vertices {
+              x: 3297
+              y: 3468
+            }
+            vertices {
+              x: 3289
+              y: 3899
+            }
+            vertices {
+              x: 3196
+              y: 3897
+            }
+          }
+          text: "0"
+          confidence: 0.9700000286102295
+        }
+        symbols {
+          property {
+            detected_languages {
+              language_code: "fr"
+            }
+            detected_break {
+              type_: LINE_BREAK
+            }
+          }
+          bounding_box {
+            vertices {
+              x: 3324
+              y: 3468
+            }
+            vertices {
+              x: 3413
+              y: 3470
+            }
+            vertices {
+              x: 3405
+              y: 3901
+            }
+            vertices {
+              x: 3316
+              y: 3899
+            }
+          }
+          text: "0"
+          confidence: 0.9900000095367432
+        }
+        confidence: 0.800000011920929
+      }
+      confidence: 0.8399999737739563
+    }
+    block_type: TEXT
+    confidence: 0.8399999737739563
+  }
+}
+text: "Table 15\nCocheats: 4\n2 ansette\n4 estr\303\251e\n47\nRicard\n28,00\n30,20\n112,51\nSous Total 148.00\n"

@@ -1,0 +1,86 @@
+pages{
+	property{
+		detected_languages {
+        language_code: "en"
+        confidence: 1.0
+	  }
+	blocks{
+		paragraphs{
+			words{
+				symbols{
+					text:"m"
+				}
+				symbols{
+					text:"o"
+				}
+				symbols{
+					property {
+						detected_break {
+							type_: SPACE
+						}
+					}
+					text:"t"
+				}
+				symbols{
+					text:"t"
+				}
+				symbols{
+					text:"e"
+				}
+				symbols{
+					text:"s"
+				}
+				symbols{
+					text:"t"
+				}
+			}
+			words{
+				symbols{
+					text:"t"
+				}
+				symbols{
+					text:"e"
+				}
+				symbols{
+					text:"s"
+				}
+				symbols{
+					text:"t"
+				}
+			}
+		}
+		paragraphs{
+			words{
+				symbols{
+					text:"m"
+				}
+				symbols{
+					text:"o"
+				}
+				symbols{
+					text:"t"
+				}
+				symbols{
+					text:"2"
+				}
+			}
+			words{
+				symbols{
+					text:"t"
+				}
+				symbols{
+					text:"e"
+				}
+				symbols{
+					text:"s"
+				}
+				symbols{
+					text:"t"
+				}
+				symbols{
+					text:"2"
+				}
+			}
+		}
+	}
+}
